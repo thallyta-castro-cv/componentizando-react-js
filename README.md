@@ -1,27 +1,25 @@
-# Getting Started with Create React App
+# Projeto
+Desafio Criando um frontend totalmente componentizado com React.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este projeto foi criado para realizar o desafio de código da Digital Innovation One.
 
-## About project
+## Descrição do desafio
+Criar uma solução que aplique a componentização e boas práticas para componentizar um frontend utilizando React.
+Este projeto consome a API do github e permite a pesquisa de usuários, bem como seus repositórios e repositórios estrelados.  
 
-This repository was created in order to show how we can create a frontend application with reusable components.
 
-We will create an application using the github public api.
-
-### Libraries used
+### Bibliotecas usadas
 
 - [axios](https://www.npmjs.com/package/axios)
 - [react-tabs](https://www.npmjs.com/package/react-tabs)
 - [styled-components](https://styled-components.com/)
 
-## Available Scripts
+## Scripts Disponíveis
 
-In the project directory, you can run:
+No diretório do projeto, você pode executar:
 
 ### `yarn start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+O aplicativo será executado em modo de desenvolvimento no servidor local:  
+Abra [http://localhost:3000](http://localhost:3000) para vizualizar no navegador. 
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
