@@ -1,15 +1,18 @@
-# Projeto
-Desafio Criando um frontend totalmente componentizado com React.
+# Desafio Criando um frontend totalmente componentizado com React.
 
-Este projeto foi criado para realizar o desafio de código da Digital Innovation One.
+https://img.shields.io/npm/l/react]
 
-## Descrição do desafio
-Criar uma solução que aplique a componentização e boas práticas para componentizar um frontend utilizando React.
-Este projeto consome a API do github e permite a pesquisa de usuários, bem como seus repositórios e repositórios estrelados.  
+## Sobre o projeto
+Este projeto foi desenvolvido em React e consome a API do github, permite a pesquisa de usuários, bem como seus repositórios e repositórios estrelados. 
+O objetivo do projeto foi demonstrar como componentizar uma aplicação seguindo as boas práticas em React
 
 
-### Bibliotecas usadas
+### Tecnologias Utilizadas
 
+- HTML
+- CSS
+- Javascript
+- ReactJs
 - [axios](https://www.npmjs.com/package/axios)
 - [react-tabs](https://www.npmjs.com/package/react-tabs)
 - [styled-components](https://styled-components.com/)
@@ -23,3 +26,13 @@ No diretório do projeto, você pode executar:
 O aplicativo será executado em modo de desenvolvimento no servidor local:  
 Abra [http://localhost:3000](http://localhost:3000) para vizualizar no navegador. 
 
+
+# Autor
+
+<b>Thallyta Macedo Carvalho de Castro</b>
+
+Linkedin: [https://www.linkedin.com/in/thallyta-castro/](https://www.linkedin.com/in/thallyta-castro/)
+
+Medium: [https://medium.com/@thallyta-castro-cv](https://medium.com/@thallyta-castro-cv)
+
+email: [contato@thallytacastro.com.br](mailto:contato@thallytacastro.com.br)
