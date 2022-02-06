@@ -1,13 +1,13 @@
 # Desafio Criando um frontend totalmente componentizado com React.
 
-https://img.shields.io/npm/l/react]
+![NPM](https://img.shields.io/npm/l/react)
 
-## Sobre o projeto
+# Sobre o projeto
 Este projeto foi desenvolvido em React e consome a API do github, permite a pesquisa de usuários, bem como seus repositórios e repositórios estrelados. 
-O objetivo do projeto foi demonstrar como componentizar uma aplicação seguindo as boas práticas em React
+O objetivo do projeto foi demonstrar como componentizar uma aplicação seguindo as boas práticas em React.
 
 
-### Tecnologias Utilizadas
+# Tecnologias Utilizadas
 
 - HTML
 - CSS
@@ -17,7 +17,7 @@ O objetivo do projeto foi demonstrar como componentizar uma aplicação seguindo
 - [react-tabs](https://www.npmjs.com/package/react-tabs)
 - [styled-components](https://styled-components.com/)
 
-## Scripts Disponíveis
+# Como executar o projeto
 
 No diretório do projeto, você pode executar:
 
